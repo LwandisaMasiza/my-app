@@ -15,7 +15,7 @@ function App() {
   <footer>
     <p>
       View my GitHub:{""}
-      <a href="https://github.com/LwandisaMasiza" target="-blank" rel="nooper noreferrer">
+      <a href="https://github.com/LwandisaMasiza/my-app" target="-blank" rel="nooper noreferrer">
       GitHub Profile
       </a>
     </p>
