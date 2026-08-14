@@ -14,12 +14,16 @@ function App() {
   );
   <footer>
     <p>
-      View my GitHub:{""}
-      <a href="https://github.com/LwandisaMasiza/my-app" target="-blank" rel="nooper noreferrer">
-      GitHub Profile
+      View my GitHub:
+      <a
+        href="https://github.com/LwandisaMasiza/my-app"
+        target="-blank"
+        rel="nooper noreferrer"
+      >
+        GitHub Profile
       </a>
     </p>
-  </footer>
+  </footer>;
 }
 
 export default App;
